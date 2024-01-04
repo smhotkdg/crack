@@ -1,0 +1,6 @@
+/home/yueyuanhao/deepcrack/data/CrackTree/crack_plus_test_image/DSCN6428_rot2_crop3.jpg /home/yueyuanhao/deepcrack/data/CrackTree/crack_plus_test_mask/DSCN6428_rot2_crop3.png
+/home/yueyuanhao/deepcrack/data/CrackTree/crack_plus_test_image/DSCN6429_rot5_crop2.jpg /home/yueyuanhao/deepcrack/data/CrackTree/crack_plus_test_mask/DSCN6429_rot5_crop2.png
+/home/yueyuanhao/deepcrack/data/CrackTree/crack_plus_test_image/DSCN6431_rot0_crop3.jpg /home/yueyuanhao/deepcrack/data/CrackTree/crack_plus_test_mask/DSCN6431_rot0_crop3.png
+/home/yueyuanhao/deepcrack/data/CrackTree/crack_plus_test_image/DSCN6431_rot2_crop2.jpg /home/yueyuanhao/deepcrack/data/CrackTree/crack_plus_test_mask/DSCN6431_rot2_crop2.png
+/home/yueyuanhao/deepcrack/data/CrackTree/crack_plus_test_image/DSCN6431_rot5_crop2.jpg /home/yueyuanhao/deepcrack/data/CrackTree/crack_plus_test_mask/DSCN6431_rot5_crop2.png
+/home/yueyuanhao/deepcrack/data/CrackTree/crack_plus_test_image/DSCN6431_rot7_crop5.jpg /home/yueyuanhao/deepcrack/data/CrackTree/crack_plus_test_mask/DSCN6431_rot7_crop5.png

@@ -1,0 +1,5 @@
+D:\Workspace\road-crack-detection\module-test\set\crack_image306.png	D:\Workspace\road-crack-detection\module-test\set\crack_image306.png
+D:\Workspace\road-crack-detection\module-test\set\crack_image307.png	D:\Workspace\road-crack-detection\module-test\set\crack_image307.png
+D:\Workspace\road-crack-detection\module-test\set\crack_image308.png	D:\Workspace\road-crack-detection\module-test\set\crack_image308.png
+D:\Workspace\road-crack-detection\module-test\set\crack_image309.png	D:\Workspace\road-crack-detection\module-test\set\crack_image309.png
+D:\Workspace\road-crack-detection\module-test\set\crack_image310.png	D:\Workspace\road-crack-detection\module-test\set\crack_image310.png
